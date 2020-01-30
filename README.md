@@ -1,1 +1,1 @@
-# NameGenerator1
+Created random name generator with titles
